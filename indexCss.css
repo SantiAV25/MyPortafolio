@@ -193,6 +193,13 @@ body{
     padding: 0px;
     font-size: x-large;
 }
+
+#Informacion{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
 /*End My Skills Css Zone*/
 
 
